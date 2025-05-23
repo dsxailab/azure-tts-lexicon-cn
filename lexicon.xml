@@ -11,7 +11,7 @@
   <!--AzureTTS 多音字字典，1234分别为平升转降，5为轻声 -->
   <!--A-->
   <!--B-->
-  <!--C-->
+  <!--C--> 
   <lexeme>
     <grapheme>朱重八</grapheme>
     <phoneme>zhu 1 chong 2 ba 1</phoneme>
@@ -121,6 +121,14 @@
     <grapheme>行者</grapheme>
     <phoneme>xing 2 zhe 3</phoneme>
   </lexeme> 
+  <lexeme>
+    <grapheme>修行</grapheme>
+    <phoneme>xiu 1 xing 2</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>道行</grapheme>
+    <phoneme>dao 4 heng 2</phoneme>
+  </lexeme>
   <!--Y-->
   <lexeme>
     <grapheme>女乐</grapheme>
@@ -159,4 +167,20 @@
     <grapheme>重重有赏</grapheme>
     <phoneme>zhong 4 zhong 4 you 3 shang 3</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>重重难关</grapheme>
+    <phoneme>chong 2 zhong 2 nan 2 guan 1</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>道长</grapheme>
+    <phoneme>dao 4 zhang 3</phoneme>
+  </lexeme> 
+  <lexeme>
+    <grapheme>仙长</grapheme>
+    <phoneme>xian 1 zhang 3</phoneme>
+  </lexeme> 
+  <lexeme>
+    <grapheme>长老</grapheme>
+    <phoneme>zhang 3 lao 3</phoneme>
+  </lexeme> 
 </lexicon>
